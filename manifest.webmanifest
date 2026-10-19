@@ -1,0 +1,17 @@
+{
+  "name": "Рафт – каталог на книгите",
+  "short_name": "Рафт",
+  "description": "Снимаш корицата, получаваш издателство, година, страници, ISBN и цена.",
+  "lang": "bg",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f2f3ef",
+  "theme_color": "#27698a",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
