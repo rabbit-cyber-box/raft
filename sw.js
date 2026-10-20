@@ -1,6 +1,6 @@
 // Network-first for the app shell so updates arrive, cache fallback so it opens offline.
 // API calls go to another origin and are never touched here.
-const V = 'raft-v3';
+const V = 'raft-v8';
 const SHELL = ['./', 'index.html', 'manifest.webmanifest', 'icon-192.png', 'icon-512.png'];
 
 self.addEventListener('install', e => {
